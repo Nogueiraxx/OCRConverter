@@ -1,8 +1,0 @@
-O objetivo desse estágio é criar um código que pega diversas imagens de algum repositório, 
-seja web ou local, faça a análise dessas imagens, e me retorne a versão digitalizada do arquivo.
-Deve realizar a conversão de imagens de texto em OCR basicamente.
-
-1 - Etapa: Estudar maneiras de solucionar esse problema; 
-2 - Etapa: Começar o desenvolvimento da aplicação;
-3 - Etapa: Conferir se o projeto entrega o que promete;
-4 - Etapa: Testes;
